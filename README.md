@@ -1,9 +1,10 @@
 # OnemoreTimer Report
 
-## 제작자: 고종찬, 김태현, 주혜정, 차종한, 최지석, 최현아
+## 제작자: 김태현 외 5명 
 
 ---
 ## 프로젝트 개요
+
 ![!](https://github.com/iOS-portfolio-Team/OneMoreRnD/blob/main/onemoretimerPics/onemore%20(1).jpg)
 ![!](https://github.com/iOS-portfolio-Team/OneMoreRnD/blob/main/onemoretimerPics/onemore%20(2).jpg)
 ![!](https://github.com/iOS-portfolio-Team/OneMoreRnD/blob/main/onemoretimerPics/onemore%20(3).jpg)
@@ -33,7 +34,6 @@
 ![!](https://github.com/iOS-portfolio-Team/OneMoreRnD/blob/main/onemoretimerPics/onemore%20(28).jpg)
 ![!](https://github.com/iOS-portfolio-Team/OneMoreRnD/blob/main/onemoretimerPics/onemore%20(29).jpg)
 ![!](https://github.com/iOS-portfolio-Team/OneMoreRnD/blob/main/onemoretimerPics/onemore%20(30).jpg)
-
 
 
 
