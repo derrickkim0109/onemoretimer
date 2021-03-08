@@ -55,7 +55,7 @@
 ## AppStore
 + https://apps.apple.com/kr/app/onemoretimer/id1553425042
 ## Demonstration video
-[![](http://img.youtube.com/vi/EdJdf26V84E/0.jpg)](http://www.youtube.com/watch?v=EdJdf26V84E "")
+[![](http://img.youtube.com/vi/EdJdf26V84E/0.jpg)](https://www.youtube.com/watch?v=4uZSgdLIReo "")
 ---
 
 
